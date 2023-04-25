@@ -2,8 +2,9 @@
 /* Your CSS Code here. */
 div{
 	width: 200px;
-	background-color:purple;
-	border-left:5px solid green;
+	background-color:rgb(128,0,128);
+	border-left-width:5px;
+	border-left-color:tgb(0,128,0);
 	padding:10px;
 	color:white;
 	font-size:20px;
